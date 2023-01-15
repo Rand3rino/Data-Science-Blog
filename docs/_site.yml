@@ -1,4 +1,4 @@
-name: "Data Scienc Blog"
+name: "Data Science Blog"
 output_dir: "docs"
 navbar:
   title: "Randy's Data Science Blog"
