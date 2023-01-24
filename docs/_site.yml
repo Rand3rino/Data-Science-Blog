@@ -1,5 +1,5 @@
 name: "Data Science Blog"
-output_dir: "docs"
+output_dir: "."
 navbar:
   title: "Randy's Data Science Blog"
   left:
